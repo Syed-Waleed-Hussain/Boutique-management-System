@@ -33,7 +33,7 @@ Ensure you have the following installed on your system:
 ### 🔧 Installation & Execution
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/your-username/Boutique-Management-System.git
+   git clone https://github.com/Syed-Waleed-Hussain/Boutique-Management-System.git
    ```
 2. **Navigate to Project Directory**
    ```sh
@@ -48,14 +48,12 @@ Ensure you have the following installed on your system:
    ./boutique
    ```
 
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🤝 Contributing
 We welcome contributions! Feel free to submit a Pull Request or open an Issue.
 
 ## 📞 Contact
-For any inquiries or suggestions, reach out to me at **your-email@example.com**.
+For any inquiries or suggestions, reach out to me at **syedw4420@gmail.com**.
 
 ---
 💡 _Happy Coding!_ 🎉
